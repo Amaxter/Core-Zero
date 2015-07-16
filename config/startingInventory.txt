@@ -1,0 +1,5 @@
+MekanismTools:StonePaxel,1,0
+minecraft:stone_sword,1,0
+minecraft:torch,8,0
+harvestcraft:chickensandwichItem,4,0
+betterstorage:backpack,1,0
