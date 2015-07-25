@@ -10,19 +10,18 @@ Found creative tab: misc
 Found creative tab: redstone
 Found creative tab: agricraft
 Found creative tab: transportation
+Found creative tab: aroma1997core:creativetab
 Found creative tab: Artifice
 Found creative tab: Artifice Worldgen
 Found creative tab: Automagy
 Found creative tab: tools
 Found creative tab: BiblioCraft
 Found creative tab: BiblioCraftLights
-Found creative tab: BiblioWoodsBoP
 Found creative tab: BiblioWoodsForestry
 Found creative tab: BigReactors
 Found creative tab: materials
 Found creative tab: apiculture
 Found creative tab: buildingBlocks
-Found creative tab: tabBiomesOPlenty
 Found creative tab: Botania
 Found creative tab: Botany
 Found creative tab: buildcraft.main
@@ -238,17 +237,17 @@ override called. Params: Mekanism, GlowPanel, 0
 Regex match found! Mekanism:GlowPanel matches Mekanism:GlowPanel.
 Found ItemStack Mekanism:GlowPanel. 64xitem.GlowPanel@0
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: Artifice:tile.artifice.lamp.gray
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, Artifice:tile.artifice.lamp.gray
+getRandomMaterial called. Returned: Artifice:tile.artifice.lamp.cyan
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, Artifice:tile.artifice.lamp.cyan
 Loading: ExtraUtilities.js
 override called. Params: ExtraUtilities, drum, 0,1
 Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
 Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
-getRandomMaterial called. Returned: Artifice:tile.artifice.lamp.magenta
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, Artifice:tile.artifice.lamp.magenta
+getRandomMaterial called. Returned: Artifice:tile.artifice.lamp.gray
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, Artifice:tile.artifice.lamp.gray
 Loading: BuildCraft.js
-getFacadesSize called. Returned: 4808
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 297
+getFacadesSize called. Returned: 4619
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 742
 Loading: Bibliocraft.js
 override called. Params: BiblioCraft, *, 0
 Regex match found! BiblioCraft:* matches BiblioCraft:Armor Stand.
@@ -380,8 +379,8 @@ Found ItemStack BiblioCraft:item.tapeMeasure. 1xitem.tapeMeasure@0
 Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
-getNumberOfTypes called. Returned: 3586
-override called. Params: appliedenergistics2, item.ItemFacade, 290
+getNumberOfTypes called. Returned: 3481
+override called. Params: appliedenergistics2, item.ItemFacade, 2863
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: Tcon.js
