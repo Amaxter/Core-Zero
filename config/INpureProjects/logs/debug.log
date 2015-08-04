@@ -10,7 +10,6 @@ Found creative tab: misc
 Found creative tab: redstone
 Found creative tab: agricraft
 Found creative tab: transportation
-Found creative tab: aroma1997core:creativetab
 Found creative tab: Artifice
 Found creative tab: Artifice Worldgen
 Found creative tab: Automagy
@@ -36,12 +35,12 @@ Found creative tab: CarpentersBlocks
 Found creative tab: compactmachines
 Found creative tab: combat
 Found creative tab: ComputerCraft
+Found creative tab: decorations
 Found creative tab: blocksAndItems
 Found creative tab: food
 Found creative tab: toolsAndWeapons
 Found creative tab: enchiridion
 Found creative tab: EnderIO
-Found creative tab: decorations
 Found creative tab: EnderZoo
 Found creative tab: extratic.parts
 Found creative tab: extratic.blocks
@@ -149,6 +148,7 @@ Found creative tab: ChocoCraft
 Found creative tab: ClockworkPhase
 Found creative tab: dimDoorsCreativeTab
 Found creative tab: enhancedportals
+Found creative tab: equivalentenergistics
 Found creative tab: ExAstrisTab
 Found creative tab: Extra_Cells
 Found creative tab: factorizationTab
@@ -165,12 +165,6 @@ Found creative tab: tabHarvestCraft
 Found creative tab: immersiveintegration
 Found creative tab: malisisadvert
 Found creative tab: malisisdoors
-Found creative tab: tabMatterOverdrive_food
-Found creative tab: tabMatterOverdrive
-Found creative tab: tabMatterOverdrive_buildings
-Found creative tab: tabMatterOverdrive_ships
-Found creative tab: tabMatterOverdrive_upgrades
-Found creative tab: tabMatterOverdrive_modules
 Found creative tab: openmodularturrets
 Found creative tab: OpenPrinter
 Found creative tab: OpenSecurity
@@ -246,17 +240,17 @@ override called. Params: Mekanism, GlowPanel, 0
 Regex match found! Mekanism:GlowPanel matches Mekanism:GlowPanel.
 Found ItemStack Mekanism:GlowPanel. 64xitem.GlowPanel@0
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: Artifice:tile.artifice.lamp.green
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, Artifice:tile.artifice.lamp.green
+getRandomMaterial called. Returned: Artifice:tile.artifice.glasswall
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, Artifice:tile.artifice.glasswall
 Loading: ExtraUtilities.js
 override called. Params: ExtraUtilities, drum, 0,1
 Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
 Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
-getRandomMaterial called. Returned: Artifice:tile.artifice.lamp.black
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, Artifice:tile.artifice.lamp.black
+getRandomMaterial called. Returned: Artifice:tile.artifice.basalt
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, Artifice:tile.artifice.basalt
 Loading: BuildCraft.js
-getFacadesSize called. Returned: 4815
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 4593
+getFacadesSize called. Returned: 4809
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 1696
 Loading: Bibliocraft.js
 override called. Params: BiblioCraft, *, 0
 Regex match found! BiblioCraft:* matches BiblioCraft:Armor Stand.
@@ -388,8 +382,8 @@ Found ItemStack BiblioCraft:item.tapeMeasure. 1xitem.tapeMeasure@0
 Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
-getNumberOfTypes called. Returned: 3592
-override called. Params: appliedenergistics2, item.ItemFacade, 903
+getNumberOfTypes called. Returned: 3587
+override called. Params: appliedenergistics2, item.ItemFacade, 929
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: Tcon.js
