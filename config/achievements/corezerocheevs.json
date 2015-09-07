@@ -1,0 +1,14 @@
+{
+  "pageTitle": "Core Zero Cheevs",
+  "langZip": "czcheevs",
+  "achievements": [
+    {
+      "id": "cakePlace",
+      "conditionType": "block",
+      "params": "place minecraft:cake meta=32767",
+      "itemIcon": "minecraft:cake",
+      "xPos": 0,
+      "yPos": 0
+    }
+  ]
+}
